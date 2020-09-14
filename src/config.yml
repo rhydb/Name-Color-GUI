@@ -1,0 +1,71 @@
+# <color> will be replaced with the color code.
+# Example: New color for: <color><player> will output only the player's name in the new color
+change-message: "<color>New color set"
+set-message: "<color>New color for <player>"
+invalid-permission-message: "&cInvalid permissions"
+
+colors:
+  "&0":
+    enabled: true
+    name: "&r&0Black"
+    item: BLACK_WOOL
+  "&1":
+    enabled: true
+    name: "&r&1Dark Blue"
+    item: LAPIS_BLOCK
+  "&2":
+    enabled: true
+    name: "&r&2Dark Green"
+    item: GREEN_WOOL
+  "&3":
+    enabled: true
+    name: "&r&3Dark Aqua"
+    item: CYAN_WOOL
+  "&4":
+    enabled: true
+    name: "&r&4Dark Red"
+    item: REDSTONE_BLOCK
+  "&5":
+    enabled: true
+    name: "&r&5Dark Purple"
+    item: PURPLE_WOOL
+  "&6":
+    enabled: true
+    name: "&r&6Gold"
+    item: ORANGE_WOOL
+  "&7":
+    enabled: true
+    name: "&r&7Gray"
+    item: LIGHT_GRAY_WOOL
+  "&8":
+    enabled: true
+    name: "&r&8Dark Gray"
+    item: GRAY_WOOL
+  "&9":
+    enabled: true
+    name: "&r&9Blue"
+    item: BLUE_WOOL
+  "&a":
+    enabled: true
+    name: "&r&aGreen"
+    item: LIME_WOOL
+  "&b":
+    enabled: true
+    name: "&r&bAqua"
+    item: LIGHT_BLUE_WOOL
+  "&c":
+    enabled: true
+    name: "&r&cRed"
+    item: RED_WOOL
+  "&d":
+    enabled: true
+    name: "&r&dLight Purple"
+    item: MAGENTA_WOOL
+  "&e":
+    enabled: true
+    name: "&r&eYellow"
+    item: YELLOW_WOOL
+  "&f":
+    enabled: true
+    name: "&r&fWhite"
+    item: WHITE_WOOL

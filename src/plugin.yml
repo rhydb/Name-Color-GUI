@@ -1,0 +1,24 @@
+name: NameColorGUI
+author: nijabutter
+main: nijabutter.NameColor
+version: 1.0
+api-version: 1.15
+
+permissions:
+  color.*:
+    description: Name color
+    children:
+      color.use: true
+      color.set: true
+    color.use:
+      description: use the command
+      default: true
+    color.set:
+      description: set color
+      default: true
+
+commands:
+  color:
+    usage: /color
+    description: colors
+    aliases: [colour, colours, colors]
