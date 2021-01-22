@@ -14,7 +14,7 @@ public class Join implements Listener{
 	static NameColor plugin = NameColor.getPlugin(NameColor.class);
 	
 	public Join(NameColor plugin) {
-		this.plugin = plugin;
+		Join.plugin = plugin;
 		Bukkit.getPluginManager().registerEvents(this, plugin);
 	}
 	

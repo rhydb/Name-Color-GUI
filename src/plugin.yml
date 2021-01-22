@@ -1,7 +1,7 @@
 name: NameColorGUI
 author: nijabutter
 main: nijabutter.NameColor
-version: 1.0
+version: 2.1
 api-version: 1.15
 
 permissions:
